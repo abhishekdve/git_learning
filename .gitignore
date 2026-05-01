@@ -1,0 +1,9 @@
+# Questasim / ModelSim junk
+work/
+vsim.wlf
+transcript
+*.log
+
+# General OS junk
+*.swp
+.DS_Store
